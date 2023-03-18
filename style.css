@@ -1,0 +1,17 @@
+body{
+    background-image:url("hOye.gif");
+    background-position:center;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+img{
+    border: 5px ridge aqua;
+    height:75%;
+}
+button{
+    background-color: aquamarine;
+    color: black;
+    font-size:25px;
+    margin-bottom:5px;
+    border-radius:20px;
+}
